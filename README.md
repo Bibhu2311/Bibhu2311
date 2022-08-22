@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bibhu2311
-- 👀 I loved coding
+- 👀 I love coding
 - 🌱 I’m currently learning Java
 - 👨‍💻 Always enthusiastic to learn new skills
 
